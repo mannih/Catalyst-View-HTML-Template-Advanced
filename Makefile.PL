@@ -16,6 +16,6 @@ requires 'HTML::Template';
 test_requires 'Test::More';
 
 auto_install;
-resources repository => 'http://github.com/mannih/cpan/tree/master/Catalyst-View-HTML-Template-Advanced';
+resources repository => 'https://github.com/mannih/Catalyst-View-HTML-Template-Advanced';
 
 WriteAll;
